@@ -236,7 +236,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-white/10 px-6 py-7 lg:px-10">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 text-sm text-gray-500 sm:flex-row">
-          <p>© {new Date().getFullYear()} Mind Sync. All rights reserved.</p>
+          <p> © 2026 Mind Sync. All rights reserved.</p>
           <p>Smarter Business. Better Future.</p>
         </div>
       </footer>
